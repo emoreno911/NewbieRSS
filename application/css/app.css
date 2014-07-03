@@ -1,0 +1,16 @@
+/** Custom App Styles **/
+html {
+	height: 100%;
+}
+
+body {
+	min-height: 100%; 
+	padding-top: 60px
+}
+
+#app {
+  -webkit-animation-duration: 0.8s;
+  -webkit-animation-delay: 0s;
+  -webjit-animation-iteration-count: infinite;
+}
+
