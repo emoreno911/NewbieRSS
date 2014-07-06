@@ -17,6 +17,7 @@
  <a href="http://backbonejs.org">Main</a> |  
  <a href="http://underscorejs.org/">Underscore JS</a>
  </li>
+ <li><a href="http://blogs.msdn.com/b/davrous/archive/2012/05/11/windows-8-html5-metro-style-app-how-to-create-a-small-rss-reader-in-30min-part-1-2.aspx">Demo RSS</a></li>
  <li>To Read
  <ul>
     <li><a href="http://blog.fogcreek.com/how-we-make-trello/">How We Make Trello</a></li>
