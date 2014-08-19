@@ -25,10 +25,12 @@
  <li>Grunt
  <a href="http://gruntjs.com/">Main</a> |  
  <a href="https://www.youtube.com/watch?v=bntNYzCrzvE">Getting Started</a> |
- <a href="http://danburzo.ro/grunt/chapters/handlebars/">Grunt + Handlebars</a>
+ <a href="http://matthew-jackson.com/notes/development/grunt-workflow-for-sass-compass-and-js/">Grunt Workflow</a>
  </li>
  <li>Handlebars
- <a href="http://handlebarsjs.com/">Main</a>
+ <a href="http://handlebarsjs.com/">Main</a> |  
+ <a href="http://danburzo.ro/grunt/chapters/handlebars/">Precompile HBS + Grunt</a> |  
+ <a href="https://github.com/RStankov/backbone-handlebars">Backbone.Handlebars</a>
  </li>
  <li><a href="http://blogs.msdn.com/b/davrous/archive/2012/05/11/windows-8-html5-metro-style-app-how-to-create-a-small-rss-reader-in-30min-part-1-2.aspx">Demo RSS</a></li>
  <li>To Read
